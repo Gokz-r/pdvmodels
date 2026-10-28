@@ -1,0 +1,2 @@
+# Model files are bytes, never text: stored and checked out exactly as they are (their SHA-256 must match).
+* -text
